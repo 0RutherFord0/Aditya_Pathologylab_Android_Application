@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662497365647",
+    "project_id": "adityapathologylab-execulia",
+    "storage_bucket": "adityapathologylab-execulia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662497365647:android:779f7fee4aa26f955eaafa",
+        "android_client_info": {
+          "package_name": "com.execulia.adityapathologylab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662497365647-5qmnbd8eu7qakgvr1a9j1m5u34ga76ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xJQWlu2KJEHEexH1WyD3s837de5NQKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662497365647-5qmnbd8eu7qakgvr1a9j1m5u34ga76ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
